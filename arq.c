@@ -1,8 +1,14 @@
 #include <stdio.h>
+int main(void)
+{
+	printf ("Oi");	
+}
+
 
 int main(void)
 {
-	//É preciso comentar
-	prinf("Hello, World!");
+	//é preciso comentar!
+	printf("hello, word!");
+	
 	return 0;
 }
